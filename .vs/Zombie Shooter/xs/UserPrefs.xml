@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{31854BFF-9D36-ADB9-713A-3BF523C2235C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Zombie Scripts/SetStateSMB.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Helper Scripts/AudioManager.cs" Line="50" Column="66" />
+      <File FileName="Assets/Scripts/Weapons Scripts/GunWeaponController.cs" Line="76" Column="49" />
+      <File FileName="Assets/Scripts/Weapons Scripts/MeleeWeaponController.cs" Line="10" Column="50" />
+      <File FileName="Assets/Scripts/Zombie Scripts/ZombieController.cs" Line="102" Column="48" />
+      <File FileName="Assets/Scripts/Fence Scripts/FenceHealth.cs" Line="16" Column="36" />
+      <File FileName="Assets/Scripts/Bullet Scripts/BulletController.cs" Line="51" Column="48" />
+      <File FileName="Assets/Scripts/Zombie Scripts/ZombieSpawner.cs" Line="19" Column="49" />
+      <File FileName="Assets/Scripts/Helper Scripts/GameplayController.cs" Line="76" Column="55" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerHealth.cs" Line="34" Column="52" />
+      <File FileName="Assets/Scripts/FX Scripts/SmartPool.cs" Line="24" Column="75" />
+      <File FileName="Assets/Scripts/Zombie Scripts/SetStateSMB.cs" Line="9" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
